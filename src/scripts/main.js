@@ -25,3 +25,5 @@ const contaAsHoras = setInterval(function() {
         document.getElementById('contador').innerHTML = 'Evento expirado';
     }
 }, 1000)
+
+// PARA VOLTAR A FUNCIONAR COMO DEPENDÊNCIA DE DESENVOLVIMENTO, ADICIONAR EM BAIXO DE DESCRIPTION A LINHA   "main": "index.js",
